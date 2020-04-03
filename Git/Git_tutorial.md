@@ -5,7 +5,9 @@ __Author: Savandara Besse__
 _____
 
 ## A. ACKNOWLEDGMENTS
--	Thanks to Francis, Gracielle and Gabriel for the Git Demonstration on Zoom! It helped me a lot to write this summary tutorial 😊
+-	Thanks to @FrancisBanville, @graciellehigino and
+@gabrieldansereau for the Git Demonstration on Zoom! <br>
+It helped me a lot to write this summary tutorial 😊
 
 ## B. REFERENCES (for the two first pictures)
 -	Github documentation
@@ -62,6 +64,7 @@ ______
 4.	Write `git push` to update your git repo
 
 ![](04_add_commit_push.png)
+
 > __Notes__:
 > -	Always think to commit if you are modifying a file! (That’s make a historic of your changes aka. versioning)
 > - Never forget this order: <center>__add / commit / push__</center>
@@ -71,6 +74,7 @@ ______
   - If you have something new in your Git repo (either because you add something through the web interface or someone else add something in the Git repo)
   - If nothing changed, it will tell you that your repo is up to date
 
+![](05_status.png)
 ## 5. Create and work in a branch
 -	Creating a branch is useful when you want to make some tests without modifying your master branch aka. _the main one_
 -	In this example, I will create a branch called Parallele_branch and I will add a new file in this branch
@@ -78,7 +82,7 @@ ______
   - To switch between your different branches, you will the write `git checkout BRANCHNAME (here master or Parallele_branch)`
 -	If you are working in team, be sure to create your own branch to not overwrite the code of your team mate!
 
-![](05_checkout.png)
+![](06_checkout.png)
 > <center> Have you seen the differences between branches??</center>
 
 ## 6.	Merge the content of a branch
@@ -86,7 +90,7 @@ ______
   -	First you will need to come back to the master branch with this command line `git checkout master`
   -	Then, you will merge the branch Parallele_branch to master with this command line `git merge Parallele_branch`
 
-![](06_merge.png)
+![](07_merge.png)
 
 > __Notes__:
 -	To delete a branch, write `git checkout -d BRANCHNAME`
