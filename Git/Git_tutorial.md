@@ -43,11 +43,11 @@ ______
 > - Read until this line: “Congratulations! You've successfully created your first repository and initialized it with a README file.”
 > - The next part is about making a commit from the web interface
 
--	Clone your repository on your computer
+-	Clone your repository in your computer
   1.	Open Git Bash
   2.	Write `cd TO/YOUR/PATH/FOLDER`
   3.	Write `git clone http://www.github.com/your_repository_url`
-  4.	Enter in the folder using `cd` and check if the content of your report was created with `ls`
+  4.	Go to the new folder using `cd` and check if the content of your repository was created with `ls`
         - You should have only an empty README.md file
 
 > __Note__: Your will collect this link on the main page of your repository by clicking on the “Clone/Download button”
@@ -64,13 +64,13 @@ ______
 ![](04_add_commit_push.png)
 
 > __Notes__:
-> -	Always think to commit if you are modifying a file! (That’s make a historic of your changes aka. versioning)
+> -	Always think to commit if you are modifying a file! (That will make a historic of your changes aka. versioning)
 > - Never forget this order: <center>__add / commit / push__</center>
 -	`git status` will give you an overview of what you need to commit
-  - If you are working with someone, it is important to always have the last recent version of your Git repo
--	 `git pull` will help you to have the last version of the Git repo from Github (not show in my example)
-  - If you have something new in your Git repo (either because you add something through the web interface or someone else add something in the Git repo)
-  - If nothing changed, it will tell you that your repo is up to date
+  - If you are working with someone, it is important to always have the latest version of your Git repo
+-	 `git pull` will help you to have the last version of the Git repo from Github (not shown in my example)
+  - If you have something new in your Git repo (either because you added something through the web interface or someone else added something in the Git repo)
+  - If nothing has changed, it will tell you that your repo is up to date
 
 ![](05_status.png)
 ## 5. Create and work in a branch
@@ -78,7 +78,7 @@ ______
 -	In this example, I will create a branch called Parallele_branch and I will add a new file in this branch
   - You can directly create a branch and be placed in it by writing `git checkout -b  Parallele_branch`
   - To switch between your different branches, you will the write `git checkout BRANCHNAME (here master or Parallele_branch)`
--	If you are working in team, be sure to create your own branch to not overwrite the code of your team mate!
+-	If you are working in a team, be sure to create your own branch to not overwrite the code of your team mate!
 
 ![](06_checkout.png)
 > <center> Have you seen the differences between branches??</center>
