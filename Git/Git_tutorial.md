@@ -15,12 +15,10 @@ It helped me a lot to write this summary tutorial 😊
   -	https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
 
 ## C. PRE-REQUIREMENTS
--	On Windows:
-  - Git bash (more user-friendly than your windows terminal)
-  - Available here:https://gitforwindows.org/
--	On Linux:
-  - Git
-  - Available by with this command line `sudo apt-get install git`
+-	_On Windows_:
+  - Git bash (more user-friendly than your windows terminal) - available here:https://gitforwindows.org/
+-	_On Linux_:
+- Git - available by with this command line `sudo apt-get install git`
 
 ______
 
@@ -42,8 +40,8 @@ ______
 -	Creation of your repository:
   -	Follow the guidelines here: https://help.github.com/en/github/getting-started-with-github/create-a-repo
 
-          > - Read until this line: “Congratulations! You've successfully created your first repository and initialized it with a README file.”
-          > - The next part is about making a commit from the web interface
+> - Read until this line: “Congratulations! You've successfully created your first repository and initialized it with a README file.”
+> - The next part is about making a commit from the web interface
 
 -	Clone your repository on your computer
   1.	Open Git Bash
@@ -94,7 +92,7 @@ ______
 
 > __Notes__:
 -	To delete a branch, write `git checkout -d BRANCHNAME`
-  -	Avoid deleting your master branch, tho’
+-	Avoid deleting your master branch, tho’
 
 ______
 
