@@ -52,6 +52,7 @@ ______
 
 > __Note__: Your will collect this link on the main page of your repository by clicking on the “Clone/Download button”
 
+![](03_clone.png)
 
 ### 4. Add a new file into your repository and update your Git repo
 1.	Create a file in your folder
@@ -60,6 +61,7 @@ ______
 3.	Write `git commit -m “New file”` will add a short description related to your commit
 4.	Write `git push` to update your git repo
 
+![](04_add_commit_push.png)
 > __Notes__:
 > -	Always think to commit if you are modifying a file! (That’s make a historic of your changes aka. versioning)
 > - Never forget this order: <center>__add / commit / push__</center>
@@ -76,6 +78,7 @@ ______
   - To switch between your different branches, you will the write `git checkout BRANCHNAME (here master or Parallele_branch)`
 -	If you are working in team, be sure to create your own branch to not overwrite the code of your team mate!
 
+![](05_checkout.png)
 > <center> Have you seen the differences between branches??</center>
 
 ## 6.	Merge the content of a branch
@@ -83,6 +86,7 @@ ______
   -	First you will need to come back to the master branch with this command line `git checkout master`
   -	Then, you will merge the branch Parallele_branch to master with this command line `git merge Parallele_branch`
 
+![](06_merge.png)
 
 > __Notes__:
 -	To delete a branch, write `git checkout -d BRANCHNAME`
