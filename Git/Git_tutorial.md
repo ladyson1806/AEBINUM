@@ -10,14 +10,14 @@ _____
 It helped me a lot to write this summary tutorial 😊
 
 ## B. REFERENCES (for the two first pictures)
--	Github documentation
+Github documentation
   -	https://help.github.com/en/github/using-git/setting-your-username-in-git
   -	https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
 
 ## C. PRE-REQUIREMENTS
--	_On Windows_:
+_On Windows_:
   - Git bash (more user-friendly than your windows terminal) - available here:https://gitforwindows.org/
--	_On Linux_:
+_On Linux_:
 - Git - available by with this command line `sudo apt-get install git`
 
 ______
