@@ -9,16 +9,8 @@ _____
 @gabrieldansereau for the Git Demonstration on Zoom! <br>
 It helped me a lot to write this summary tutorial 😊
 
-## B. REFERENCES (for the two first pictures)
-Github documentation
-  -	https://help.github.com/en/github/using-git/setting-your-username-in-git
-  -	https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
-
-## C. PRE-REQUIREMENTS
-_On Windows_:
-  - Git bash (more user-friendly than your windows terminal) - available here:https://gitforwindows.org/
-_On Linux_:
-- Git - available by with this command line `sudo apt-get install git`
+## B. INSTALLATION
+Depending of your operating system, follow the instructions to install Git from this website page: https://carpentries.github.io/workshop-template/#git
 
 ______
 
@@ -28,20 +20,46 @@ ______
 - Sign up on https://github.com/
 
 ### 2.	Configure your username and email on Git
--	Note: `--global` will set this username and email for all your Git repositories
+- `--global` will set this username and email for all your Git repositories
 
-#### a. user.name
-![](01_user.name.png)
+##### a. user.name
+In your terminal:
+1. Set a Git username:
 
-#### b. user.email
-![](02_user.email.png)
+```bash
+$ git config --global user.name "Datatrek Team"
+```
+2. Confirm that you have set the Git username correctly:
+
+```bash
+$ git config --global user.name
+> Datatrek Team
+```
+
+##### b. user.email
+Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits.
+
+In your terminal:
+
+1. Set an email address in Git. You can use your GitHub-provided no-reply email address or any email address.
+
+```Bash
+$ git config --global user.email "email@example.com"
+```
+
+2. Confirm that you have set the email address correctly in Git:
+
+```bash
+$ git config --global user.email
+> email@example.com
+```
+
 
 ### 3.	Create your Git repo and clone it into your local computer
--	Creation of your repository:
-  -	Follow the guidelines here: https://help.github.com/en/github/getting-started-with-github/create-a-repo
+-	Follow the guidelines here to create your repository: https://help.github.com/en/github/getting-started-with-github/create-a-repo
 
-> - Read until this line: “Congratulations! You've successfully created your first repository and initialized it with a README file.”
-> - The next part is about making a commit from the web interface
+  > - Read until this line: “Congratulations! You've successfully created your first repository and initialized it with a README file.”
+  > - The next part is about making a commit from the web interface
 
 -	Clone your repository on your computer
   1.	Open Git Bash
@@ -92,7 +110,7 @@ ______
 
 > __Notes__:
 -	To delete a branch, write `git checkout -d BRANCHNAME`
--	Avoid deleting your master branch, tho’
+  -	Avoid deleting your master branch, tho’
 
 ______
 
