@@ -25,7 +25,7 @@ ______
 - `--global` will set this username and email for all your Git repositories
 
 ###### a. user.name
-In your terminal:
+In your terminal / git bash:
 1. Set a Git username:
 
 ```bash
@@ -41,7 +41,7 @@ $ git config --global user.name
 ###### b. user.email
 Change the current working directory to the local repository where you want to configure the name that is associated with your Git commits.
 
-In your terminal:
+In your terminal / git bash:
 
 1. Set an email address in Git. You can use your GitHub-provided no-reply email address or any email address.
 
@@ -63,7 +63,7 @@ $ git config --global user.email
   > - The next part is about making a commit from the web interface
 
 -	Clone your repository on your computer
-In your terminal:
+In your terminal / git bash :
 2.	Write `cd TO/YOUR/PATH/FOLDER`
 3.	Write `git clone http://www.github.com/your_repository_url`
 4.	Enter in the folder using `cd` and check if the content of your report was created with `ls`
