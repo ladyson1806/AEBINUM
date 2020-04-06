@@ -18,6 +18,9 @@ ______
 #### 1. Create a GitHub account
 - Sign up on https://github.com/
 
+> __Tips__:
+> - For getting your SSH keys and add them them to your SSH agent, take a look here: https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
 #### 2.	Configure your username and email on Git
 - `--global` will set this username and email for all your Git repositories
 
@@ -60,7 +63,7 @@ $ git config --global user.email
   > - The next part is about making a commit from the web interface
 
 -	Clone your repository on your computer
-1.	Open Git Bash
+In your terminal:
 2.	Write `cd TO/YOUR/PATH/FOLDER`
 3.	Write `git clone http://www.github.com/your_repository_url`
 4.	Enter in the folder using `cd` and check if the content of your report was created with `ls`
@@ -139,10 +142,6 @@ $ git merge Parallele_branch
 $ git checkout -d Parallele_branch
 ```
 > - __/!\ Avoid deleting your master branch, tho’__
-
-#### c. Getting your SSH keys
-- Take a look here: https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-
 
 ### 8. An example of daily workflow
 - Check the one proposed from the Zoom demo: https://github.com/Randonnees-Datatrek/data-trek-2020/blob/ef5b5e0f3a0d445be52ca6f305a837a6287d5671/roadmap-demo/script.md
