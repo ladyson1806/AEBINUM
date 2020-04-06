@@ -132,6 +132,8 @@ $ git merge Parallele_branch
 
 #### a. Discard your changes and go back to your older version
 
+`TO DO`
+
 #### b. Delete a branch
 ```bash
 $ git checkout -d Parallele_branch
