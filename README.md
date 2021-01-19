@@ -1,6 +1,6 @@
 # AEBINUM
 
-## About
+## Purpose
 
 - Code used for AEBINUM association duties & events
 
