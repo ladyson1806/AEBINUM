@@ -1,0 +1,60 @@
+Column1,Column2,Column3,Column4,Column5
+Date,Etudiant_Directeur,Grade_obtenu,Programme,Titre_soutenance
+07/12/2005,Geneviève Boucher / Normand Mousseau,12/01/2006,Bio-informatique,Exploration des mécanismes d’agrégation de peptides amyloïdes
+21/12/2006,Mohamed Tikah Marrakchi / Sylvie Hamel / co: Andreea Schmitzer,01/02/2007,Bio-informatique,Helix Explorer : une nouvelle base de données de structures de protéines
+07/11/2006,Valentin Guignon / Sylvie Hamel / co : Cedric Chauve,07/12/2006,Bio-informatique,Algorithme de comparaison de structures secondaires d’ARN
+28/04/2006,Tan Wang / Joelle Pelletier,05/10/2006,Bio-informatique,Linker-scanning analysis of the HIV-1 integrase protein
+17/12/2007,Audrey Noël / Pavel Hamet / co : Ettore Merlo,07/02/2008,Bio-informatique,"Recherche de déterminants génomiques impliqués dans l’hypertension, sur le chromosome X, chez des familles du Saguenay-Lac-St-Jean"
+19/11/2007,Louis Philippe Lavoie / François Major,10/01/2008,Bio-informatique,Analyse de motifs d’ARN
+31/07/2007,Guy Larochelle / Hervé Philippe / co : Michel Bouvier,06/09/2007,Bio-informatique,Recherche d’une empreinte phylogénétique relié à la fonctionnalité des récepteurs couplés aux protéines G
+03/07/2007,Fabrice Baro / Hervé Philippe,02/08/2007,Bio-informatique,Phylogénie et transferts horizontaux de gènes chez les bactéries
+27/05/2007,Sébastien Christin / Nadia El-Mabrouk,02/08/2007,Bio-informatique,Recherche de snoRNA dans le génome de S. cerevisiae à l’aide d’information biologique ainsi que d’analyses statistiques et informatiques
+12/04/2007,Nicolas Saint-Onge / François Major,03/05/2007,Bio-informatique,"MC-MAP, un nouvel outil d’intégration de motifs"
+23/03/2007,Jean-François St-Pierre / Normand Mousseau,03/05/2007,Bio-informatique,Méthodes de simulations moléculaires accélérées : application et développement
+10/12/2008,Wafae El Alaoui / Hervé Philippe,12/01/2009,Bio-informatique,Datation moléculaire et artefact dû à la saturation mutationnelle
+26/06/2008,Xiao Zhu / Traian Sulea / co : Robert Ménard,03/07/2008,Bio-informatique,Structural bioinformatics analysis of the family of human ubiquitin-specific proteases
+02/05/2008,Louis-Philippe Lemieux Perreault / Ettore Merlo / co : Pavel Hamet,05/06/2008,Bio-informatique,Algorithme génétique spécifique à l’analyse de la susceptibilité à l’hypertension de la population du Saguenay-Lac-Saint-Jean
+07/04/2008,Martin Smith / Gertraud Burger / co : Barbara Papadopoulou / et Mathieu Blanchette,01/05/2008,Bio-informatique,Insights into the function of short interspersed degenerated retroposons in the protozoan parasite Leishmania
+19/03/2008,Pascal St-Onge / Daniel Sinnett,01/05/2008,Bio-informatique,Détection et caractérisation des interactions dans les maladies complexes
+01/02/2008,François Gauthier / Pavel Hamet / co: Ettore Merlo,13/03/2008,Bio-informatique,Analyse de descendances ; une approche bio-informatique pour estimer le risque d’hypertension et d’obésité
+21/01/2008,Félix Doyon / Serguei Chteinberg,13/03/2008,Bio-informatique,Etude des interactions entre les boucles D et T chez les ARNs de transfert (ARNts)
+02/11/2009,Diala Abd Rabbo / Christine Maugard,03/12/2009,Bio-informatique,Étude du transcriptome des cellules non tumorales de l’épithélium de surface de l’ovaire des femmes porteuses d’une mutation des gènes BRCA1 et BRCA2
+03/09/2009,Caroline Louis-Jeune / François Major,08/10/2009,Bio-informatique,Représentation et recherche de motifs cycliques et structuraux d’ARN connus dans les structures secondaires
+25/08/2009,Amandine Bemmo / Miklos Csuros / Co : Jacek Majewski,05/11/2009,Bio-informatique,Performances de la puce exon et son application dans l’analyse de l’épissage alternatif associé à la métastase du cancer du sein
+05/06/2009,Marie Pier Scott-Boyer / Sébastien Lemieux,09/07/2009,Bio-informatique,Annotation des ARN non codants du génome du Candida albicans par méthode bio-informatique
+20/04/2009,Julie Hussin / Damian Labuda,04/06/2009,Bio-informatique,Classes alléliques d’haplotypes et sélection positive dans le génome humain
+22/11/2010,Zia Mohaddes / Sylvie Hamel,03/02/2011,Bio-informatique,Modeling protein évolution using secondary structures
+02/11/2011,Emilio Damian Vello / Damian Labuda,05/01/2012,Bio-informatique,La cartographie des sites de régulation génétique à partir de données de débalancement allélique
+03/10/2011,Asma Boufaden / Sylvie Mader / co : François Major,03/11/2011,Bio-informatique,Prédiction de boucles de régulation associant microarn et gènes régulées par le récepteur de l’acide retinoïque dans le cancer du sein
+20/09/2011,Éloi Mercier / Raphaël Gottardo,01/12/2011,Bio-informatique,Développement d’outils pour l’analyse de données de CH1P-SEQ pour l’identification des facteurs de transcription
+18/08/2011,Jean-Christophe Grenier / Hervé Philippe,06/10/2011,Bio-informatique,Phylogénomique des Archées
+14/07/2011,François Lefebvre / Sébastien Lemieux,03/11/2011,Bio-informatique,Comparaison des méthodes d’analyse de l’expression différentielle basée sur la dépendance des niveaux d’expression
+15/05/2011,Alexandre Bramoullé / Pierre Thibault,07/07/2011,Bio-informatique,Identification des peptides du complexe majeur d’histocompatibilité de classe I par spectrométrie de masse
+11/04/2011,Lucien Fabre / François Major,05/05/2011,Bio-informatique,Étude structurale conformationnelle des toxines de l’anthrax par cryomycroscopie et dynamique moléculaire
+18/03/2011,Louis-Philip Benoit-Bouvrette / Miklos Csuros,05/05/2011,Bio-informatique,Analyse de la corrélation conditionnelle dérivée de la coévolution d’un système de trois gènes par un modèle de maximum de vraisemblance
+10/09/2013,Fatou Tao / Serguei Chteinberg,10/12/2013,Bio-informatique,Structural rules fot the formation of backbone-backbone interactions between closely packed RNA double helices
+12/02/2013,Raphaël Poujol / Nicolas Lartillot,01/03/2013,Bio-informatique,Estimation des corrélations phylogénétiques entre paramètres d’évolution moléculaire et traits d’histoire de vie
+07/10/2014,Jacques Boisvert / Paul Maddox / Sébastien Lemieux-co,19/02/2015,Bio-informatique,A robust algorithm for segmenting fluorescence images and its application to single-molecule counting
+26/08/2014,Alain Pacis / Luis Barreiro,19/02/2015,Bio-informatique,"Dynamic epigenetic changes in immune responses to
+infection in human dendritic cells"
+12/02/2014,Eric Fournier / Hervé Philippe,20/05/2014,Bio-informatique,Évolution moléculaire : Un modèle Markov-modulé pour les processus de substitution
+2015-10-06,Séton Steven Bocco / Miklos Csuros,2016-03-17,Bio-informatique,Évolution à fine échelle des sites d’épissage des introns dans les gènes des oomycètes
+2015-09-03,Marie Armande Ang Houle / Philip Awadalla,2016-03-17,Bio-informatique,Typage de la classe génotypique du gène PRDM9 à partir de données de Séquençage de Nouvelle Génération
+2015-07-23,Jean-François Théroux / B. Franz Lang,2015-10-15,Bio-informatique,Développement de méthodes d’assemblage de génomes de novo adaptées aux bactéries endosymbiotes
+2016-10-16,Benjamin Matala / Stephen Michnick,2017-03-30,Bio-informatique,Une correction à l’échelle et progressive des données Hi-C révèlent des principes fondamentaux de l’organisation tridimentionnelle et fonctionnelle du génome
+2016-01-18,Sarah Cherkaoui / / Christine Des Rosiers,2016-03-17,Bio-informatique,Développement d’une méthode bio-informatique permettant de relier les gènes aux métabolites
+2016-01-08,Amell El Korbi / / François Major,2016-03-17,Bio-informatique,Identification de caractéristiques communes et rares des ARN structurés dans la base de données RFAM
+2017-12-13,Assya Trofimov / Claude Perreault,2018-03-12,Bio-informatique,Étude des signatures géniques dans un contexte d’expériences de RNA-Seq
+2017-03-13,Yann Ilboudo / Guillaume Lettre,2017-05-01,Bio-informatique,"The Genetics of Red Blood Cell Density, a Biomarker of Clinical Severity in Sickle Cell Disease"
+2017-02-10,Paméla Mehanna / Daniel Sinnett,2017-05-01,Bio-informatique,Caractérisation du microDNome et sa modulation par le traitement anti-cancer
+2018-12-10,Olivier Tastet / Luis Barreiro,2019-03-07,Bio-informatique,Contrôle génétique de l’épissage alternatif dans le contexte de la réponse immunitaire innée
+2018-10-28,Anh-Tien Ton / Adrian Serohijos,2019-03-07,Bio-informatique,Multiscale Framework of Microbial Evolution to Identify Emergence of Antibiotic Resistance
+2018-10-19,Philippe Malric / François Major,2019-03-07,Bio-informatique,"Prédiction et visualisation de la réactivité chimique des ARN.
+Proposition d’un modèle basé sur la réactivité des cycles minimaux et des sous-structures composés de ces cycles avec le 1m7"
+2018-08-30,Martineau Jean-Louis / Mark Samuels,2019-03-07,Bio-informatique,Séquençage d’exomes chez des patients canadiens français atteints du syndrome d’interruption de la tige hypophysaire
+2018-07-12,Caroline Labelle / Sébastien Lemieux,2018-10-11,Bio-informatique,Méthodologie pour l’analyse de données de criblage : application à l’étude de la leucémie myéloïde aiguë
+2018-04-16,Sandra Therrien-Laperrière / Christine Des Rosiers,2018-06-27,Bio-informatique,Développement d’un outils bio-informatique pour l’annotation des associations entre gènes et métabolites basée sur les voies métaboliques
+2018-02-22,Matthew Sarrasin / Franz Lang,2018-05-10,Bio-informatique,An Approach to Improved Microbial Eukaryotic Genome Annotation
+2019-11-12,Louis Gendron / / Sebastian Pechmann,à venir,Bio-informatique,Adaptation de la levure à la suite des perturbations du mécanisme de contrôle de qualité de l’ARN
+2019-11-08,Redha Attaoua / / Pavel Hamet,à venir,Bio-informatique,Investigation génétique de NAFLD dans le diabète de type 2 via criblage du locus PNPLA3-SAMM50 et par construction d’un modèle de prédiction de la maladie
+2019-03-07,Yasmine Draceni / / Sebastian Pechmann,2019-05-02,Bio-informatique,Principes de l’évolution du réseau de l’homéostasie des protéines
