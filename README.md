@@ -2,7 +2,7 @@
 
 ## About
 
-- Works related to my association duties
+- Code used for AEBINUM association duties & events
 
 ## Contents
 
